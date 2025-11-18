@@ -1,3 +1,5 @@
-# DevelopForte.github.io
+# Welcome to my Github.page
+# Thank you for watching
 
-안녕하세요. 저는 장민성입니다.
+## Name: 장민성
+## 
